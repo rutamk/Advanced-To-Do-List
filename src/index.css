@@ -90,6 +90,7 @@ li{
   flex: 1;
   font-size: 30px;
   text-transform: uppercase;
+  transition: 0.5s ease;
 }
 
 .done{
@@ -99,7 +100,7 @@ li{
   text-decoration: line-through;
   color: rgb(109, 219, 99);
   padding-left: 30px;
-
+  transition: 0.5s ease;
 }
 
 .add-button{
@@ -118,7 +119,7 @@ li{
 }
 
 .delete-button{
-  border: 1.5px solid transparent;
+  border: 2px solid transparent;
   background-color: rgb(190, 59, 59);
   transition: border-color 0.25s;
 }
@@ -128,9 +129,9 @@ li{
 }
 
 .done-button{
-  border: 1.5px solid transparent;
+  border: 2px solid transparent;
   background-color: rgb(59, 162, 190);
-  transition: border-color 0.25s;
+  transition: 0.25s ease;
 }
 
 .done-button:hover{
