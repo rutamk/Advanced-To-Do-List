@@ -15,9 +15,12 @@ Simple and intuitive to use, you can :
 4. Delete tasks
    ![CleanShot 2024-07-17 at 14 04 09@2x](https://github.com/user-attachments/assets/259a5093-47d3-436b-af26-cc00dbbb7c24)
 
-To run the project:
-1.Download the zip file 
-2.Extract it into your code editor 
-3.Open your editors terminal 
-4.Run the command ``` npm run dev``` 
-5.Go to the localhost url 
+To run the project : 
+1. Download the zip file
+2. Extract it into your code editor 
+3. Open your editors terminal 
+4. Run the command ``` npm run dev``` 
+5. Go to the localhost url
+
+
+
