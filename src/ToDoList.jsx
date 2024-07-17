@@ -79,7 +79,7 @@ function ToDoList() {
 
   return (
     <div className="to-do-list">
-      <h1> To-Do-List</h1>
+      <h1> JotSpot </h1>
       <div>
         <input
           type="text"
