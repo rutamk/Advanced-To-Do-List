@@ -1,8 +1,29 @@
-**Jotspot - A to-do app**
+🌐 Explore the live website: [JotSpot](https://jotspot-livid.vercel.app) 🌐
 
-Jotspot is a modern to do list web app featuring useful task options and a modern UI.
-It is developed using react and css.
-Simple and intuitive to use, you can :
+📝 JotSpot
+
+Welcome to JotSpot – a simple, minimalistic to-do app made using React and CSS! 🎉 This project highlights the power of React hooks and beautiful CSS to create a functional and aesthetically pleasing task manager.
+
+✨ Features
+
+➕ Add Tasks: Easily add new tasks to your to-do list.
+🗑️ Delete Tasks: Remove tasks when they're no longer needed.
+🔼🔽 Move Tasks: Move tasks up or down to prioritize them.
+✅❌ Done/Pending: Mark tasks as done or pending to keep track of your progress.
+🎨 Beautiful CSS: Enjoy a visually appealing and clean user interface.
+🛠️ Technologies Used
+
+Frontend: React.js
+Styling: CSS
+Hosting: Vercel
+
+💻 Usage
+
+Add Tasks: Click the add button to create a new task.
+Delete Tasks: Click the delete button to remove a task.
+Move Tasks: Use the up and down buttons to reorder tasks.
+Done/Pending: Click the checkbox to mark tasks as done or pending.
+
 1. Add tasks
    ![CleanShot 2024-07-17 at 13 57 19@2x](https://github.com/user-attachments/assets/7a1467ce-ac6b-4c33-b78f-397f7157621b)
 
@@ -22,5 +43,9 @@ To run the project :
 4. Run the command ``` npm run dev``` 
 5. Go to the localhost url
 
+🌟 Contributing
+
+Contributions are welcome! Feel free to submit a pull request or open an issue. 
+Enjoy using JotSpot! If you have any questions or feedback, please feel free to reach out.
 
 
